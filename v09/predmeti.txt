@@ -1,0 +1,22 @@
+7
+Matematika
+SK100
+3.37
+Srpski jezik i knjizevnost
+SK101
+4.01
+Filozofija
+SK401
+4.5
+Fizicko vaspitanje
+SK103
+4.89
+Biologija
+SK104
+3.76
+Fizika
+SK105
+2.37
+Hemija
+SK106
+3.01
